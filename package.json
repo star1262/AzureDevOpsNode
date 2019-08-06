@@ -1,0 +1,23 @@
+{
+  "name": "azuredevopsnode",
+  "version": "1.0.0",
+  "description": "Azure DevOps node js",
+  "main": "SimpleWebServer.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/star1262/AzureDevOpsNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/star1262/AzureDevOpsNode/issues"
+  },
+  "homepage": "https://github.com/star1262/AzureDevOpsNode#readme"
+}
