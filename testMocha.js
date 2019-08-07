@@ -9,7 +9,7 @@ describe('Array 테스트', function() {
 	});
 });
 
-describe('비동기 코드 테스트. 무조건 실패함 ㅎㅎ', function () {
+describe('비동기 코드 테스트. 3초라 무조건 실패함 ㅎㅎ', function () {
 	describe('#setTimeout', function () {
 		it('2초 이내에 완료되지 않으면 실패', function (done) {
 			setTimeout(function () {
