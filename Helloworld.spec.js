@@ -9,7 +9,6 @@ describe('App test!', function () {
     });
   });
 
-
 // if (sayHello) {
 //   console.log('sayHello should return "hello"');
 //   if (sayHello() === 'hello') {

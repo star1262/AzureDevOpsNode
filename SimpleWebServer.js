@@ -23,7 +23,7 @@ http.createServer((request, response) => {
       });
     } else { // 매칭되는 주소가 없으면
       response.statusCode = 404; // 404 상태 코드
-      response.end('주소가 없습니다');
+      response.end('해당 주소가 없습니다');
     }
   }
 }).listen(8080);

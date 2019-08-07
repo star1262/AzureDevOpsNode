@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Azure DevOps node js",
   "main": "SimpleWebServer.js",
-  "dependencies": {},
+  "dependencies": {
+    "mocha": "^6.2.0"
+  },
   "devDependencies": {
     "mocha": "^6.2.0"
   },
